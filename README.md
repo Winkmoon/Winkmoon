@@ -2,7 +2,7 @@
 - **An Android kernel developer**
 
 ## 📱 Devices in use
-[![Redmi Note 11T Pro+](https://img.shields.io/badge/Redmi%20Note%2011T%20Pro%2B-小米?style=flat-square&logo=小米&logoColor=ffffff)](https://www.mi.com/)
+[![ XiaoMi 12X ](https://img.shields.io/badge/Redmi%20Note%2011T%20Pro%2B-小米?style=flat-square&logo=小米&logoColor=ffffff)](https://www.mi.com/)
 
 My account data 👇  
 
