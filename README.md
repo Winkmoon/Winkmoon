@@ -2,7 +2,7 @@
 - **An Android kernel developer**
 
 ## 📱 Devices in use
-[![ XiaoMi 12X ](https://img.shields.io/badge/XiaoM12X-小米?style=flat-square&logo=小米&logoColor=ffffff)](https://www.mi.com/)
+腻看腻马呢？？
 
 My account data 👇  
 
