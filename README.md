@@ -1,10 +1,13 @@
-## Hi there 👋
-- **An Android kernel developer**
+## 你好
+- **Android Kernel 构建开发/二次优化编译**
+ShirokoNeko Kernel 开发者
+接ROM定制/内核定制合作
 
-## 📱 Devices in use
-腻看腻马呢？？
+## 
+**联系方式**
+QQ3432632982
 
-My account data 👇  
+我的个人数据  
 
 ![Ab0ut_m3](https://miyuki-github.vercel.app/api/?username=Winkmoon&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=10)
 
