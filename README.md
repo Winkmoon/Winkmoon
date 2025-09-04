@@ -1,4 +1,5 @@
-## 你好
+## 你好，这里是然~ 酷安@Xinran_StarBai
+
 - **Android Kernel 构建开发/二次优化编译**
 ShirokoNeko Kernel 开发者
 接ROM定制/内核定制合作
