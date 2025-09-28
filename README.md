@@ -8,9 +8,9 @@ ShirokoNeko Kernel 开发者
 **联系方式**
 QQ3432632982
 
-**我的个人数据**  
+**访问次数**
 
-![Ab0ut_m3](https://miyuki-github.vercel.app/api/?username=Winkmoon&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=10)
+![](https://count.getloli.com/get/@Winkmoon?theme=gelbooru)
 
 ## GitHub Stats
 
@@ -33,10 +33,6 @@ QQ3432632982
 </p>
 
 
-
-**访问次数**
-
-![](https://count.getloli.com/get/@Winkmoon?theme=gelbooru)
 
 **项目语言**
 
