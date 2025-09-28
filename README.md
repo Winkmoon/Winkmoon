@@ -18,9 +18,6 @@ xiaozuzong5211314@gmail.com
 ## GitHub 活动数据
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Winkmoon&theme=tokyonight" />
-</p>
-<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Winkmoon&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Winkmoon&theme=tokyonight&hide_border=true" />
 </p>
@@ -32,6 +29,9 @@ xiaozuzong5211314@gmail.com
 </p>
 
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Winkmoon&theme=tokyonight" />
+</p>
 
 ## 项目语言
 
