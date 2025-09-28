@@ -8,9 +8,29 @@ ShirokoNeko Kernel 开发者
 **联系方式**
 QQ3432632982
 
-我的个人数据  
+**我的个人数据**  
 
 ![Ab0ut_m3](https://miyuki-github.vercel.app/api/?username=Winkmoon&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=10)
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Winkmoon&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Winkmoon&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Winkmoon&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winkmoon&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+##  Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Winkmoon&theme=tokyonight&hide_border=true" />
+</p>
 
 
 
