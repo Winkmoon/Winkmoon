@@ -5,7 +5,7 @@ ShirokoNeko Kernel 开发者
 接ROM定制/内核定制合作
 
 ## 本人在26.03.23入驻爱发电
-可前往https://ifdian.net/a/ShirokoNeko支持我哦
+可前往  https://ifdian.net/a/ShirokoNeko  支持我哦
 ## 
 **联系方式**
 
